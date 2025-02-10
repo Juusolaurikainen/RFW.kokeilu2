@@ -31,13 +31,3 @@ Tämä projekti automatisoi asiakkaan lisäämisen testauksen CRM-sovelluksessa 
 - **Page Object -malli**
 
 ---
-
-## 📋 **Asennusohjeet**
-1. Asenna **Robot Framework**:
-   ```bash
-   pip install robotframework
-2. Asenna **SeleniumLibrary**:
-pip install robotframework-seleniumlibrary
-
-3. Suorita testit komennolla
-robot -d results tests/crm.robot
