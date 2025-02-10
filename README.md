@@ -31,3 +31,5 @@ Tämä projekti automatisoi asiakkaan lisäämisen testauksen CRM-sovelluksessa 
 - **Page Object -malli**
 
 ---
+## 🛠 **Playground sivusto**
+https://automationplayground.com/crm/index.html
